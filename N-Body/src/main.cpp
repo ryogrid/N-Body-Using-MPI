@@ -102,5 +102,4 @@ int main(int c,char **v) {
   fclose(f);
   MPI_Finalize();
   return EXIT_SUCCESS;
-
 }
