@@ -46,7 +46,6 @@ void moveGalaxy(Star *galaxy, int nbStars, int id, int split) {
     galaxy[i].x += galaxy[i].sx * DELTA_T;
     galaxy[i].y += galaxy[i].sy * DELTA_T;
   }
-
 }
 
 
